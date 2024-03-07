@@ -1,0 +1,33 @@
+@import "style";
+
+* {box-sizing: border-box;}
+body {
+    margin: 0;
+    padding: 0;
+}
+a { text-decoration: none;
+
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 0;
+}
+
+li {
+    list-style: none;
+}
+
+
+.my-btn {
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 188px;
+    height: 50px;
+    flex-shrink: 0;
+    background: #0E204E;
+}
